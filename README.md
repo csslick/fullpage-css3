@@ -3,6 +3,9 @@
 - by CSSLICK 
 - release date: 2019.12.25
 
+## Demo
+https://csslick.github.io/fullpage-css3/
+
 ## Usage
 ```
     <nav class="page-link">
