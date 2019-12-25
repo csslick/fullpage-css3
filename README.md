@@ -48,12 +48,6 @@ section {
   justify-content: center;
 }
 #page { overflow: hidden;}
-#page .inner {
-  outline: 3px solid red;
-  height: 100%;
-  transition: 0.4s;
-  /* transform: translateY(-0%); */
-}
 #page1{
   background-color: lightblue;
 }
@@ -61,6 +55,7 @@ section {
   background-color: pink;
 }
 #page3{
-  background-color: lightgreen
+  background-color: lightgreen;
 }
+
 ```
