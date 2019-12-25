@@ -3,7 +3,7 @@
   box-sizing: border-box;
 }
 html, body { height: 100%;}
-
+h1{ font-size: 60px;}
 .page-link {
   position: fixed;
   text-align: center;
