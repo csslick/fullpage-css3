@@ -1,4 +1,4 @@
-# csslic-scroll.js
+# csslick-scroll.js
 ## fullpage smooth scroller(use css3)
 - by CSSLICK 
 - release date: 2019.12.25
