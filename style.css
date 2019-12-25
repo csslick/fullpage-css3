@@ -1,11 +1,10 @@
 *{
   margin: 0; padding: 0;
   box-sizing: border-box;
-  transition: 0.4s;
 }
 html, body { height: 100%;}
 
-nav#gnb {
+.page-link {
   position: fixed;
   text-align: center;
   background: #ff0;
@@ -21,11 +20,6 @@ section {
   justify-content: center;
 }
 #page { overflow: hidden;}
-#page .inner {
-  outline: 3px solid red;
-  height: 100%;
-  /* transform: translateY(-0%); */
-}
 #page1{
   background-color: lightblue;
 }
