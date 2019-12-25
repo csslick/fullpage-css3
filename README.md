@@ -24,3 +24,43 @@
 
   <script src="csslick-scroll.js"></script>
 ```  
+
+```
+*{
+  margin: 0; padding: 0;
+  box-sizing: border-box;
+}
+html, body { height: 100%;}
+
+.page-link {
+  position: fixed;
+  text-align: center;
+  background: #ff0;
+  width: 100%;
+  left: 0; top: 0;
+  z-index: 99;
+}
+#page, section { height: 100%;}
+section { 
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#page { overflow: hidden;}
+#page .inner {
+  outline: 3px solid red;
+  height: 100%;
+  transition: 0.4s;
+  /* transform: translateY(-0%); */
+}
+#page1{
+  background-color: lightblue;
+}
+#page2{
+  background-color: pink;
+}
+#page3{
+  background-color: lightgreen
+}
+```
